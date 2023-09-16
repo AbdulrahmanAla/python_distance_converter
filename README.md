@@ -3,20 +3,8 @@
 This assignment involves coding and testing of a program that uses Python arithmetic.
 The basic design of your first program in this class: prompts for input, echo the input, performs
 arithmetic on that information and then displays the results.
-This assignment is worth 5 points (0.5% of course grade), and must be completed before 11:59 PM
-EST on Tuesday, September 5th. Note: Codio (where you submit your project) uses your
-computer’s time zone to display time so if your computer is set to a different time zone, the wrong
-due time will be displayed. After the due date, your score will be deducted by 25% for every 6
-hours late or a fraction of it. No submissions will be accepted after 24 hours from the due
-date.
-Deliverables
-The deliverable for this assignment is the following file:
- proj01.py -- your source code solution
-Be sure to use the specified file name and to submit it for grading via Codio before the project
-deadline. You can also just copy and paste your code into the coding window in Codio.
-We provide a zip file in the course website that you need to download into your computer, unzip
-the file, and open it in PyCharm (similar to the lab) to access the starter code.
-Background
+
+
 This programming project will use the input and print functions along with some simple
 mathematics for conversion. The important part of the project is to learn the skills needed to access
 the class web site to download a project description, create a new program in Python and finally to
@@ -30,6 +18,8 @@ in rods, an old unit of measurement that is 5.0292 meters, which is approximatel
 canoe so it is a useful measurement in the wilderness.
 Here is a piece of a BWCA map showing portages between lakes (black lines) with the length of the
 portage labeled in rods. (Red triangles are campsites.)
+
+
 Your program will prompt the user for a floating-point value representing a distance in rods. You
 will reprint that value along with that value converted to the following values. The most important
 value for planning a trip is the time to walk the portage.
@@ -45,7 +35,8 @@ that you use the following so testing will yield the same results:
 • 1 mile = 1609.34 meters
 • 1 foot = 0.3048 meters
 • average walking speed is 3.1 miles per hour
-Assignment Notes:
+
+Notes:
 1. To clarify the project specifications, sample output is appended to the end of this document.
 2. To receive credit your program must take in input, echo the input, do some simple arithmetic
 based on that input, and then print results. The only input statement should use the following
