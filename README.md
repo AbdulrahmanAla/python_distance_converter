@@ -1,7 +1,7 @@
 # python_distance_converter
 
 This assignment involves coding and testing of a program that uses Python arithmetic.
-The basic design of your first program in this class: prompts for input, echo the input, performs
+The basic design of my first program: prompts for input, echo the input, performs
 arithmetic on that information and then displays the results.
 
 
@@ -12,7 +12,7 @@ hand it in.
 Program Specifications
 Conversions are useful both in science and daily life. Here we examine some obscure, but useful
 conversions as well as some silly ones.
-If you canoe in the Boundary Waters Canoe Area (BWCA) you portage (carry) your canoe and gear
+If you canoe in the Boundary Waters Canoe Area (BWCA) you portage (carry) This canoe and gear
 between lakes as you wander deeper into the wilderness. BWCA maps label distances on portages
 in rods, an old unit of measurement that is 5.0292 meters, which is approximately the length of a
 canoe so it is a useful measurement in the wilderness.
@@ -20,7 +20,7 @@ Here is a piece of a BWCA map showing portages between lakes (black lines) with 
 portage labeled in rods. (Red triangles are campsites.)
 
 
-Your program will prompt the user for a floating-point value representing a distance in rods. You
+This program will prompt the user for a floating-point value representing a distance in rods. You
 will reprint that value along with that value converted to the following values. The most important
 value for planning a trip is the time to walk the portage.
 • meters
@@ -38,7 +38,7 @@ that you use the following so testing will yield the same results:
 
 Notes:
 1. To clarify the project specifications, sample output is appended to the end of this document.
-2. To receive credit your program must take in input, echo the input, do some simple arithmetic
+2. To receive credit This program must take in input, echo the input, do some simple arithmetic
 based on that input, and then print results. The only input statement should use the following
 string:
 "Input rods: "
